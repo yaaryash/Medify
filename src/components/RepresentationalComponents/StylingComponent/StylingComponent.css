@@ -1,0 +1,30 @@
+
+
+.stylingComponent {
+    width: 100%;
+    height: 40px;
+    
+    
+    background-color: #2AA7FF;
+    
+
+  }
+.stylingComponent-text {color:#fff;
+  /* display: inline-block; */
+  font-family: poppins;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  position: absolute;
+  top: 9px;
+  left: 269px;
+  width: 994px;
+  height: 21px;
+}
+
+
+.stylingComponent-text-outer {
+ position: relative;
+
+  }

@@ -1,0 +1,51 @@
+.content {
+    display: flex;
+}
+.content-info {
+    font-family: Poppins;
+    font-size: 31px;
+    font-weight: 500;
+    line-height: 68px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    
+}
+.content-medical {
+    font-family: Poppins;
+font-size: 56px;
+font-weight: 700;
+line-height: 68px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.content-centers {
+font-family: Poppins;
+font-size: 56px;
+font-weight: 700;
+line-height: 68px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2AA7FF;
+
+
+}
+.content-span {
+    display: block;
+    margin-bottom: -25px;
+    color: #5C6169;
+}
+.content-button {
+    background-color: #2AA8FF;
+    ; /* Primary color */
+    color: #fff; /* Text color */
+    border: 8px; /* Remove default border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    font-size: 14px; /* Adjust font size as needed */
+    cursor: pointer; /* Show pointer on hover */
+
+
+
+} 
